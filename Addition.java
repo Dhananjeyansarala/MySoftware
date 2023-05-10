@@ -17,7 +17,7 @@ public class Addition {
 	}
 	public void add4(int value1,int value2) {
 		int total=value1+value2;
-		System.out.println(total);
+		System.out.println(total+total);
 	}
 
 
